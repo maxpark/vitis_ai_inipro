@@ -12,10 +12,10 @@
 ## Exercise
 
 <a href="http://avnet.me/vitis_ai_model_ULTRA96V2_2019.2-r1.1.1.deb">[vitis_ai_model for Ultra96v2]</a>  
-<a href="https://github.com/Xilinx/AI-Model-Zoo/tree/7f3456b26724cc649960e3b6924488859eebe489">[AI-Model-Zoo]</a>
+<a href="https://github.com/Xilinx/AI-Model-Zoo/tree/7f3456b26724cc649960e3b6924488859eebe489">[Vitis AI Model Zoo]</a>
 
-<a href="https://www.xilinx.com/support/documentation/sw_manuals/vitis_ai/1_1/ug1414-vitis-ai.pdf">[ug1414 vitis-ai document]</a>  
-<a href="https://www.xilinx.com/support/documentation/ip_documentation/dpu/v3_2/pg338-dpu.pdf">[pg338 dpu document]</a>  
+<a href="https://www.xilinx.com/support/documentation/sw_manuals/vitis_ai/1_1/ug1414-vitis-ai.pdf">[ug1414 vitis ai]</a>  
+<a href="https://www.xilinx.com/support/documentation/ip_documentation/dpu/v3_2/pg338-dpu.pdf">[pg338 dpu]</a>  
 
 <a href="https://github.com/gewuek/vitis_ai_custom_platform_flow">[vitis ai custom platform flow]</a>
 
