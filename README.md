@@ -21,21 +21,22 @@
 
 
 #### Generate Bitstream
+- Board : Ultra96v1
 ```
 $ cd ~/work/
 $ git clone https://github.com/inipro/vitis_ai.git
 $ cd vitis_ai
-$ vivado -nolog -nojournal -mode batch -source ultra96v2_base.tcl
-$ cd ultra96v2_base
-$  vivado ultra96v2_base.xpr
-Generate Bitstream
+$ vivado -nolog -nojournal -mode batch -source ultra96v1_base.tcl
+$ cd ultra96v1_base
+$ vivado ultra96v1_base.xpr
+Generate Bitstream in Vivado tool
 ```
 
 #### Generate XSA
 ```
 Tcl Console
 cd ..
-source ultra96v2_base_xsa.tcl
+source ultra96v1_base_xsa.tcl
 ```
 
 #### Vitis Flow
@@ -51,10 +52,10 @@ $ cd ~/work/vitis_ai
 $ mkdir src/a53/xrt/image
 $ mkdir src/boot
 $ ./copy.sh
-$ xsct -sdx ultra96v2_base_pfm.tcl
+$ xsct -sdx ultra96v1_base_pfm.tcl
 $ mkdir platforms
-$ mv output/ultra96v2_base/export/ultra96v2_base platforms
+$ mv output/ultra96v1_base/export/ultra96v1_base platforms
 $ cd dpu_prj
 $ source /opt/Xilinx/Vitis/2019.2/settings64.sh
-$ make KERNEL=DPU DEVICE=ultra96 SDX_PLATFORM=../platforms/ultra96v2_base/ultra96v2_base.xpfm
+$ make KERNEL=DPU DEVICE=ultra96 SDX_PLATFORM=../platforms/ultra96v1_base/ultra96v1_base.xpfm
 ```
