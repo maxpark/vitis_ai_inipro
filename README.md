@@ -39,11 +39,14 @@ source ultra96v2_base_xsa.tcl
 ```
 
 #### Vitis Flow
+
 ```
 $ cd petalinux  
+```
+<a href="https://github.com/maxpark/vitis_ai_inipro/blob/master/petalinux/BUILD.txt">BUILD.txt</a> 의 Vitis Flow 을 수행
 
-BUILD.txt 의 Vitis Flow 을 수행
 
+```
 $ cd ~/work/vitis_ai
 $ mkdir src/a53/xrt/image
 $ mkdir src/boot
