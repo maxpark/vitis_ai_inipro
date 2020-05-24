@@ -1,6 +1,6 @@
 # vitis_ai
 
-# Download
+## Download
  - <a href="https://www.xilinx.com/member/forms/download/xef.html?filename=sstate_aarch64_2019.2.tar.gz">sstate_aarch64_2019.2.tar.gz</a>
  - <a href="https://inipro-my.sharepoint.com/:u:/g/personal/admin_inipro_onmicrosoft_com/ET4jm31q0KNMofiI4aXsrOkB-huEFgoqQ37UKQGxS3pRrQ?e=AYBl3J">sstate_aarch64_2019.2_2.tar.gz</a>
  - <a href="https://www.xilinx.com/member/forms/download/xef.html?filename=downloads_2019.2.tar.gz">downloads.tar.gz</a>
@@ -8,7 +8,7 @@
 
 
 
-# Exercise
+## Exercise
 
 <a href="http://avnet.me/vitis_ai_model_ULTRA96V2_2019.2-r1.1.1.deb">[vitis_ai_model for Ultra96v2]</a>  
 <a href="https://github.com/Xilinx/AI-Model-Zoo/tree/7f3456b26724cc649960e3b6924488859eebe489">[AI-Model-Zoo]</a>
