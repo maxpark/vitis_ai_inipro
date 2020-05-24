@@ -6,6 +6,7 @@
  - <a href="https://www.xilinx.com/member/forms/download/xef.html?filename=downloads_2019.2.tar.gz">downloads.tar.gz</a>
  - <a href="https://inipro-my.sharepoint.com/:u:/g/personal/admin_inipro_onmicrosoft_com/ES79k1GAUJZGiLIs-ouX7VkBUI4gAv1c-uZ6xjUtmrf_Tg?e=mztIer">sdk.zip</a>
 
+- <a href="https://www.xilinx.com/products/boards-and-kits/alveo/u200.html#gettingStarted">[Xilinx Runtime]</a>
 
 
 ## Exercise
